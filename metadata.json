@@ -1,0 +1,6 @@
+{
+  "name": "Blue Watercolor Bestie Birthday Scrapbook",
+  "description": "A handcrafted, interactive watercolor birthday scrapbook and surprise storybook for your best friend, featuring interactive games, secrets, letters, polaroids, and memory journeys in dreamy shades of blue.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
